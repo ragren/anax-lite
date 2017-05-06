@@ -1,5 +1,5 @@
 <div class="centered">
-    <h3>Hemsida för kursen oophp</h3>
+    <h3 class="header">Hemsida för kursen oophp</h3>
     <div class="divider divpadding"></div>
         <table class="centered" style="background-color:transparent;text-align:left;">
 
